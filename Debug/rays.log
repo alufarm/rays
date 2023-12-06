@@ -1,0 +1,21 @@
+﻿  Source.cpp
+E:\Program\rays\Source.cpp(362,44): warning C4244: аргумент: преобразование "LONG" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(362,23): warning C4244: аргумент: преобразование "LONG" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(370,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(370,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(370,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(370,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(380,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(380,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(432,16): warning C4305: инициализация: усечение из "double" в "float"
+E:\Program\rays\Source.cpp(475,21): warning C4018: <: несоответствие типов со знаком и без знака
+E:\Program\rays\Source.cpp(588,22): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(588,15): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(614,20): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(614,13): warning C4244: аргумент: преобразование "unsigned int" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(679,42): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(679,31): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(690,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  rays.vcxproj -> E:\Program\rays\Debug\rays.exe

@@ -1,0 +1,18 @@
+﻿  Source.cpp
+E:\Program\rays\Source.cpp(231,44): warning C4244: аргумент: преобразование "LONG" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(231,23): warning C4244: аргумент: преобразование "LONG" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(239,63): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(239,43): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(239,29): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(239,20): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(249,28): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(249,19): warning C4244: аргумент: преобразование "float" в "int", возможна потеря данных
+E:\Program\rays\Source.cpp(295,22): warning C4305: инициализация: усечение из "double" в "float"
+E:\Program\rays\Source.cpp(365,38): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+E:\Program\rays\Source.cpp(366,39): warning C4244: =: преобразование "float" в "LONG", возможна потеря данных
+E:\Program\rays\Source.cpp(371,56): warning C4244: инициализация: преобразование "float" в "size_t", возможна потеря данных
+E:\Program\rays\Source.cpp(379,24): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+E:\Program\rays\Source.cpp(372,16): warning C4101: pixels: неиспользованная локальная переменная
+LINK : warning LNK4075: не учитывается "/INCREMENTAL" из-за спецификации "/PROFILE"
+Source.obj : warning LNK4075: не учитывается "/EDITANDCONTINUE" из-за спецификации "/OPT:REF"
+  rays.vcxproj -> E:\Program\rays\x64\Debug\rays.exe
